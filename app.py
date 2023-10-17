@@ -3,7 +3,7 @@ import time
 
 # Sample text for the typing test
 sample_text = """
-The quick brown fox jumps over the lazy dog. This is a sample sentence for the typing test. Type as fast as you can.
+The quick brown fox jumps over the lazy dog. This is a sample sentence for the typing test. Type as fast as you can. The quick brown fox jumps over the lazy dog. This is a sample sentence for the typing test. Type as fast as you can.The quick brown fox jumps over the lazy dog. This is a sample sentence for the typing test. Type as fast as you can.
 """
 
 def main():
